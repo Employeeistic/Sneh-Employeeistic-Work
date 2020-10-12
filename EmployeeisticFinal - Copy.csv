@@ -1,0 +1,65 @@
+Emp_Id,Employees Name,Age,City,Proj_Id,Proj_Name,Project_Status,Completed_Projects,Upcoming_Project_Date,Is_Available_On_That_Date,Level_1,Level_2,Level_3,Client rating,HR rating,Teammates Rating,client_review,hr_review,teammates_review,Profit,Loss,C/C++,C#,PHP,Python,Java,JavaScript,Networking,Database Management,SEO,Debugging,Digital Media Marketing,Network Security,QA,UI/UX,Project Planning,Quality Control,Budget Planning,Level - 1 (Max Lag),Level - 2 (Avg. Lag),Level - 3 (Min Lag),Best Performance
+E01,Andrew Strauss,25,Benchmark Cities' Average,P01,Twatter,Pending,0,21/7/2021,Yes,Python,C,Java,9.2,8.5,7.6,good,good,excellent,98.7,1.3,6.5,6.3,7.4,8.4,9.1,7.1,3.4,7.2,1.2,1.9,2,1.1,0.5,4.6,3.3,1,1,QA,UI/UX,Java,0
+E02,John Dor,32,Benchmark Cities' Average,P02,Outstagram,Completed,2,14/6/2021,No,C++,Java,C#,9.1,8.5,8.2,bad,bad,bad,95.2,4.8,7.2,6.4,8.2,4.8,5.2,7.8,2.2,8.5,1.9,1,1,1,0,7.4,0,0,0,Project Planning,Networking,Database Management,0
+E03,Michale Clark,28,Benchmark Cities' Average,P03,SUBGY,Completed,5,6/1/2021,No,UI/UX,Python,Java,7.3,6.1,4.5,average,average,average,75.23,24.77,8.1,7.8,4.3,5.1,7.8,5.5,4.1,4,5.8,4.3,2,1,1,4.9,0,0.5,1,Project Planning,Database Management,C/C++,0
+E04,Vivian Richards,48,Tempe,P04,SmileBook,Pending,3,23/2/2021,No,Quality Control,C++,PHP,8.3,7.5,8.4,bad,excellent,good,69.28,30.72,9.5,7.5,4.5,5.6,7.6,4,7,6,4,9,8,5,4,5.7,2,2,3,Project Planning,Python,C/C++,0
+E05,Steve Smith,22,Tempe,P05,Teligram,Pending,4,18/3/2021,Yes,C#,PHP,Database Management,6.6,4.3,5.2,average,bad,bad,52.41,47.59,4.2,7.2,5.1,6.2,6.4,7,6,5,9,8.8,6.9,5.6,6.6,5.6,4.5,3.9,3.5,Budget Planning,Networking,SEO,0
+E06,Alex Adams,26,Tempe,P06,SapChat,Completed,2,17/4/2021,Yes,Java,Java,Python,7.2,5.1,3.1,average,average,average,67.87,32.13,5.7,8.1,5.7,6.7,6.2,2,1.1,0.5,3.3,4.6,4.7,8.5,9.2,6.9,6.2,1.1,0.5,Budget Planning,Digital Media Marketing,QA,0
+E07,Bob Mitai,25,Chandler,P07,WeTube,Completed,3,28/5/2021,No,C++,UI/UX,Java,8.8,1.9,4.2,bad,excellent,bad,36.23,63.77,6.1,8.4,5.8,6.9,5.3,1,1,0,0,7.4,4.8,8.7,9,8.6,6.1,1,0,Budget Planning,Digital Media Marketing,QA,0
+E08,Alice Denly,39,Chandler,P08,PacsArt,Completed,5,23/6/2021,Yes,PHP,Networking,Quality Control,5.4,2,3,average,bad,average,25.41,74.59,7.1,8.7,6.9,8.4,8.1,2,1,1,0,4.9,5.7,9.1,9.7,6.4,4.5,1,1,SEO,Debugging,QA,0
+E09,Mark Wood,38,Chandler,P09,Tak-Tok,Pending,4,18/7/2021,Yes,Networking,C#,C#,6.3,5.4,6.8,good,average,average,39.52,60.48,8.7,9.1,6.1,5.9,8.7,8,5,4,2,5.7,5.1,9.5,8.1,7.8,3,5,4,SEO,PHP,Network Security,0
+E10,Hamilton Masakadza,47,Gilbert,P10,Spotifia,Completed,1,5/8/2021,No,Java,Java,Networking,5.8,7.4,7.3,bad,good,bad,64.13,35.87,9.6,9.4,7.6,8.1,9.1,6.9,5.6,6.6,4.5,5.6,5.3,9.7,8.6,7.5,5,5.6,6.6,SEO,Javascript,Network Security,0
+E11,Henary Nicolas,34,Gilbert,P04,SmileBook,Pending,4,6/9/2021,No,C#,PHP,C,6.7,5.3,4.9,average,bad,average,76.52,23.48,3.8,4.2,8.1,9.5,9.5,4.7,8.5,9.2,6.2,1.9,2,1.1,0.5,9.5,3.3,1,1,PHP,Javascript,UI/UX,0
+E12,Charlie Puth,49,Gilbert,P05,Teligram,Pending,3,25/1/2021,No,Java,QA,C#,6.7,7.2,7.6,bad,average,good,84.96,15.04,4.6,4.7,8.5,9.2,6.2,1.1,0.5,8.1,3,1,1,1,0,9.2,0,0,0,Python,SEO,Python,0
+E13,Christopher Nolan,31,Glendale,P06,SapChat,Completed,4,2/2/2021,Yes,PHP,Python,Java,4.1,3.5,4.1,average,bad,bad,83.51,16.49,7.4,4.8,8.7,9,6.1,1,0,8.6,5,4.3,2,1,1,6.5,0,0.5,1,Python,Debugging,Python,0
+E14,David Warner,28,Glendale,P07,WeTube,Pending,2,14/2/2021,No,Database Management,Java,PHP,7.8,6.5,9.2,average,average,average,34.21,65.79,4.9,5.7,9.1,9.7,4.5,1,1,6.4,8.2,9,8,5,4,1,2,2,3,Java,Network Security,Python,0
+E15,Andre Rusell,34,Glendale,P08,PacsArt,Completed,2,26/10/2021,Yes,Python,C,QA,4.5,1.8,6.3,bad,excellent,average,27.01,72.99,5.7,5.1,9.5,8.1,3,5,4,7.8,4.3,8.8,6.9,5.6,6.6,4,4.5,3.9,3.5,Java,C/C++,PHP,0
+E16,Kimo Paul,29,Mesa,P09,Tak-Tok,Completed,3,29/11/2021,Yes,Java,C#,Python,8.2,7.6,8.2,average,excellent,average,86.95,13.05,5.6,5.3,9.7,8.6,5,5.6,6.6,7.5,4.5,5.1,6.2,3.8,4.2,6.6,8.1,9.5,9.5,Network Security,Networking,PHP,0
+E17,David Malan,32,Mesa,P05,Teligram,Completed,1,25/11/2020,Yes,JavaScript,C++,Java,5.3,9.2,4.5,good,bad,bad,53.06,46.94,1.9,2,1.1,0.5,3.3,1,1,9.5,9.5,5.7,6.7,4.6,4.7,9,8.5,9.2,6.2,Python,QA,Database Management,0
+E18,Jos Buttler,35,Mesa,P03,SUBGY,Completed,5,14/01/2021,Yes,PHP,C#,JavaScript,8.1,9.1,8.4,bad,average,excellent,45.11,54.89,1,1,1,0,0,0,0,9.2,6.2,5.8,6.9,7.4,4.8,3.9,8.7,9,6.1,Python,UI/UX,Database Management,0
+E19,Virat Kohli,32,Delhi,P01,Twatter,Pending,2,16/11/2020,No,C,PHP,C++,4.9,7.3,5.2,good,good,bad,52.21,47.79,4.3,2,1,1,0,0.5,1,6.5,6.3,7.4,8.4,9.1,8.2,8.4,9,8.1,2,Java,C/C++,Network Security,0
+E20,Glenn Maxwell,30,Victoria,P11,Inspafram,Completed,6,20/01/2021,Yes,C++,Python,UI/UX,7.2,8.3,3.1,bad,bad,average,77.89,22.11,9,8,5,4,2,2,3,7.2,6.4,8.2,4.8,5.2,9.4,1,7.6,8.7,8,UI/UX,Digital Media Marketing,QA,0
+E21,Raj Kapoor,45,Mumbai,P12,Palto,Pending,3,8/8/2021,No,QA,Database Management,SEO,6.4,6.6,4.9,average,average,good,32.11,67.89,8.8,6.9,5.6,6.6,4.5,3.9,3.5,8.1,7.8,4.3,5.1,7.8,4.2,5,8.1,9.1,6.9,Networking,Python,Quality Control,0
+E22,Camila Cabello,28,Havana,P02,Outstagram,Completed,4,2/11/2020,Yes,SEO,Quality Control,PHP,4,7.2,7.2,bad,bad,bad,65.4,34.6,0.5,1,6.5,6.3,7.4,8.4,9.1,9.5,7.5,4.5,5.6,7.6,4.7,5.6,8.5,1,9.5,C/C++,Python,Budget Planning,0
+E23,Mithali Raj,27,Jodhpur,P12,Palto,Pending,1,26/04/2021,No,JavaScript,C,C++,5.8,8.8,6.4,average,average,average,91.71,8.29,4.9,5.7,9.1,9.7,4.5,1,1,4.2,7.2,5.1,6.2,6.4,3.9,5.9,3.5,0,9.2,Quality Control,Debugging,Python,0
+E24,Selena Gomez,31,Texas,P04,SmileBook,Pending,6,30/07/2021,Yes,C#,Python,Java,6.9,5.4,4,excellent,average,good,75.12,24.88,5.7,5.1,9.5,8.1,3,5,4,5.7,8.1,5.7,6.7,6.2,8.4,8.1,9.1,7.8,4.3,Java,Digital Media Marketing,PHP,0
+E25,Ashley Nicolette Frangipane,34,Edison,P12,Palto,Pending,3,22/11/2020,No,Quality Control,Java,C,8.2,4,5.8,average,bad,bad,54.32,45.68,5.6,5.3,9.7,8.6,5,5.6,6.6,6.1,8.4,5.8,6.9,5.3,9,9.7,8,5,4,budget Planning,Networking,UI/UX,0
+E26,Alyssa Healy,33,Queensland,P12,Palto,Pending,1,5/9/2021,No,C,SEO,QA,9.1,5.8,6.9,average,average,average,87.6,12.4,2,3,7.2,6.4,8.2,4.8,5.2,7.1,8.7,6.9,8.4,8.1,8.8,8.1,6.9,5.6,6.6,C/C++,Budget Planning,QA,0
+E27,Mayanti Langer,31,Delhi,P05,Teligram,Pending,6,14/09/2020,No,Networking,Digital Media Marketing,PHP,7.5,6.9,5.8,bad,good,bad,58.9,41.1,3.9,3.5,8.1,7.8,4.3,5.1,7.8,8.7,9.1,6.1,5.9,8.7,0.5,8.6,1,6.5,6.3,QA,Debugging,SEO,0
+E28,Mitchell Starc,35,Baulkham Hills,P07,WeTube,Completed,3,26/09/2021,Yes,Python,UI/UX,Digital Media Marketing,5.9,8.2,6.7,excellent,bad,average,66.51,33.49,8.4,9.1,9.5,7.5,4.5,5.6,7.6,9.6,9.4,7.6,8.1,9.1,9.1,0.5,9.5,7.5,4.5,UI/UX,Quality Control,Database Management,0
+E29,Adil Rashid,32,Bradford,P04,SmileBook,Pending,2,11/10/2020,Yes,Debugging,PHP,Project Planning,5.1,9.1,6.7,bad,average,average,33.8,66.2,3.8,4.2,8.1,9.5,9.5,5.6,6.6,3.8,4.2,8.1,9.5,9.5,4.2,0,8.1,9.5,9.5,UI/UX,Networking,Budget Planning,0
+E30,Moeen Ali,31,Birmingham,P12,Palto,Pending,5,16/10/2021,No,Python,Budget Planning,Java,4.9,7.5,7.2,average,bad,bad,56.9,43.1,4.6,4.7,8.5,9.2,6.2,1,1,4.6,4.7,8.5,9.2,6.2,4.7,9,8.5,9.2,6.2,Javascript,Java,Python,0
+E31,Hashim Amla,36,Durban,P01,Twatter,Pending,2,29/10/2020,Yes,QA,Python,C++,6.8,6.6,8.8,good,average,good,34.5,65.5,7.4,4.8,8.7,9,6.1,0,0,7.4,4.8,8.7,9,6.1,4.8,6.6,8.7,9,6.1,Javascript,Network Security,Digital Media Marketing,0
+E32,AB DeVilliers,35,Warmbad,P03,SUBGY,Completed,1,13/10/2020,Yes,JavaScript,C,PHP,7.1,9.1,5.4,bad,average,bad,65,35,4.9,5.7,9.1,9.7,4.5,8.1,5.7,4.9,5.7,9.1,9.7,4.5,6.9,9.2,5.6,6.6,4.5,Javascript,Quality Control,Digital Media Marketing,0
+E33,Chris Gayle,40,Kingston,P11,Inspafram,Completed,5,1/1/2021,No,Network Security,Java,JavaScript,7.8,7.5,4,average,bad,average,67.91,32.09,5.7,5.1,9.5,8.1,3,8.4,5.8,7.4,5.1,9.5,8.1,3,4.7,1,8.5,9.2,6.2,UI/UX,Budget Planning,PHP,0
+E34,Adam Zampa,29,Shellharbour,P02,Outstagram,Completed,6,2/3/2021,No,SEO,Quality Control,Budget Planning,9.3,5.9,5.8,good,excellent,good,51.9,48.1,5.6,5.3,9.7,8.6,5,8.7,6.9,5.6,5.3,9.7,5.7,5,1.1,1,0.5,8.1,3,Project Planning,C/C++,PHP,0
+E35,Dwayne Bravo,31,Santa Cruz,P04,SmileBook,Pending,4,9/10/2020,No,PHP,Database Management,JavaScript,6.7,5.1,6.9,average,bad,bad,88,12,5.3,9.7,8.6,3.5,4.6,4.7,8.5,9.2,6.2,1.1,0.5,6.5,6.3,5,7.4,8.4,9.1,Digital Media Marketing,SEO,C#,0
+E36,Ellyse Perry,29,Sydney,P05,Teligram,Pending,2,10/2/2021,Yes,C++,Project Planning,Debugging,7.8,4.9,1.9,average,average,average,76.01,23.99,6.2,1.1,0.5,6.9,7.4,7.1,8.7,9,6.1,1,0,7.2,6.4,6.9,8.2,4.8,5.2,Digital Media Marketing,Budget Planning,Database Management,0
+E37,Sarah Elliot,31,Melbourne,P12,Palto,Pending,8,20/03/2021,Yes,Quality Control,Network Security,Networking,8.9,6.8,2,bad,good,bad,52.35,47.65,4.8,8.5,9.2,6.2,4.9,5.7,9.1,9.7,4.5,1,1,8.1,7.8,8.4,4.3,5.1,7.8,Debugging,Python,Database Management,0
+E38,Ross Taylor,35,Lower Hutt,P09,Tak-Tok,Completed,1,12/1/2021,No,Digital Media Marketing,C#,C,9.1,5,5.4,average,bad,average,61.35,38.65,8.4,6.5,7.2,4.8,5.7,5.1,9.5,8.1,3,5,4,9.5,7.5,5.9,4.5,5.6,7.6,SEO,C#,Networking,0
+E39,Shaun Marsh,37,Narrogin,P03,SUBGY,Completed,9,13/10/2020,No,C,Project Planning,Database Management,4.9,4,7.4,average,average,average,75.31,24.69,8.6,7.2,8.1,5.1,5.6,5.3,9.7,8.6,5,5.6,6.6,4.2,7.2,8.1,5.1,6.2,6.4,Network Security,Digital Media Marketing,Networking,0
+E40,Rahul Dravid,45,Indore,P12,Palto,Pending,3,27/09/2020,Yes,Debugging,C++,Networking,5.2,9,5.3,bad,good,bad,27.89,72.11,4,2,8.4,5.6,1.9,2,1.1,0.5,3.3,1,1,5.7,8.1,9.5,5.7,6.7,6.2,Database Management,C/C++,UI/UX,0
+E41,Kevin O'Brien,40,Dublin,P01,Twatter,Pending,1,31/03/2021,No,UI/UX,PHP,Python,7.3,4.9,7.7,average,bad,good,48.02,51.98,6.6,4.5,9.7,9,1,1,1,0,0,0,0,6.1,8.4,9.2,5.8,6.9,5.3,Database Management,C#,PHP,0
+E42,Rahkeem Cornwell,35,Autinga,P11,Inspafram,Completed,5,21/02/2021,Yes,Project Planning,Networking,Quality Control,5,6.9,5.9,good,average,bad,56.96,43.04,9.2,6.2,1.1,9.7,4.3,2,1,1,0,0.5,1,7.1,8.7,9,6.9,8.4,8.1,SEO,Java,Python,0
+E43,Lasith Malinga,37,Galle,P06,SapChat,Completed,7,14/10/2020,No,PHP,QA,Digital Media Marketing,4,8.2,7.7,bad,bad,average,81.23,18.77,6.6,4.2,7.2,8.1,9,8,5,4,2,2,3,8.7,9.1,9.7,6.1,5.9,8.7,SEO,Project Planning,UI/UX,0
+E44,Sanath Jayasuriya,41,Matara,P03,SUBGY,Completed,3,30/11/2020,Yes,C++,Python,SEO,9,9.1,3,average,average,good,91.29,8.71,5.3,9,8,8.6,8.8,6.9,5.6,6.6,4.5,3.9,3.5,9.6,9.4,4.5,7.6,8.1,9.1,Digital Media Marketing,JavaScript,Network Security,0
+E45,Muttiah Muralitharan,43,Kandy,P01,Twatter,Pending,2,31/12/2020,No,Budget Planning,C++,Network Security,4.9,7.5,6.8,bad,average,bad,62.57,37.43,9.7,8.6,5,5.6,0.5,1,5.8,9.2,6.2,5.8,6.9,3.8,4.2,9.5,8.1,9.5,9.5,Java,SEO,C/C++,0
+E46,Don Bradman,45,Cootamundra,P10,Spotifia,Completed,6,1/1/2021,No,JavaScript,PHP,UI/UX,7.7,6.6,7.3,good,bad,average,41.8,58.2,5.9,8.7,3.3,1,2,3,6.9,6.5,6.3,7.4,8.4,4.6,4.7,6.2,8.5,9.2,6.2,Python,C/C++,Quality Control,0
+E47,Sachin Tendulkar,38,Mumbai,P03,SUBGY,Completed,3,2/4/2021,Yes,Database Management,JavaScript,Project Planning,5.9,3,4.9,bad,good,average,21.77,78.23,6.1,8.4,0,0,3.3,1,1,7.2,6.4,8.2,4.8,7.4,4.8,6.1,8.7,9,6.1,PHP,Digital Media Marketing,Quality Control,0
+E48,Kapil Dev,39,Chandigarh,P04,SmileBook,Pending,1,17/09/2020,No,SEO,Java,QA,7,6.8,7.6,average,bad,bad,60.94,39.06,4.9,5.7,9.1,9.7,0,0,0,9.1,9.7,4.5,8.1,4.9,5.7,4.5,9.1,9.7,4.5,Java,C#,SEO,0
+E49,Saurav Ganguly,43,Behala,P06,SapChat,Completed,2,21/10/2020,Yes,Network Security,QA,C++,8.9,7.3,4.9,good,average,average,26.89,73.11,5.7,5.1,9.5,8.1,0,0.5,1,9.5,8.1,3,8.6,5.7,5.1,6.5,9.5,8.1,3,Java,Network Security,Project Planning,0
+E50,Shane Warne,44,Upper Ferntree Gully,P02,Outstagram,Completed,5,3/3/2021,Yes,Networking,C#,Digital Media Marketing,9.3,4.9,5.2,bad,good,good,74.32,25.68,5.6,5.3,9.7,8.6,2,2,3,8.4,4.9,5.7,0.5,5.6,5.3,7.2,9.7,8.6,5,Digital Media Marketing,Debugging,Project Planning,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+",,,
